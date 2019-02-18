@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```@copyright = OpsStateViewTool::Renderer.copyright 'Ops State', 'All right reserved'```
 
 ## Development
 
