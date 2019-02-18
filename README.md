@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-```@copyright = OpsStateViewTool::Renderer.copyright 'Ops State', 'All right reserved'```
+```ruby
+@copyright = OpsStateViewTool::Renderer.copyright 'Ops State', 'All right reserved'
+```
 
 ## Development
 
