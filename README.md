@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'opsstate_view_tool'
+gem 'opsstate_view_tool', git: 'https://github.com/opsstate/opsstate_view_tool'
 ```
 
 And then execute:
